@@ -2,12 +2,12 @@ Simple Calculator
 This Python script is a simple calculator that allows for basic arithmetic operations such as addition, subtraction, multiplication, division, and average calculation. It takes user input to perform the desired operation and displays the result.
 <p>
 Usage<p>
-Run the script:<p>
-
+Run the script:
 python calculator.py<p>
 <p>
 Follow the prompts to choose an operation and input the required numbers.<p>
 View the result of the selected operation.<p>
+<p>
 
 Available Operations<p>
 Addition (1): Sum of multiple numbers.<p>
